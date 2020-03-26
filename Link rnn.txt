@@ -1,0 +1,5 @@
+https://stackabuse.com/tensorflow-2-0-solving-classification-and-regression-problems/
+https://machinelearningmastery.com/how-to-reduce-overfitting-in-deep-learning-with-weight-regularization/
+https://hackernoon.com/build-your-first-neural-network-to-predict-house-prices-with-keras-3fb0839680f4
+https://machinelearningmastery.com/dropout-regularization-deep-learning-models-keras/
+https://machinelearningmastery.com/how-to-reduce-overfitting-with-dropout-regularization-in-keras/
