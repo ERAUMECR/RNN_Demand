@@ -1,0 +1,3 @@
+Check the Lasso test
+Use PCA to make mean = 0
+Check the difference between normalize and PCA(fit_transform)
